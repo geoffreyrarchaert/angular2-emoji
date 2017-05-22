@@ -1,3 +1,6 @@
+# This fork:
+I forked this project in order to remove the input and just use the icon button.
+
 # Angular2 Emoji
 [![npm version](https://badge.fury.io/js/angular2-emoji.svg)](https://badge.fury.io/js/angular2-emoji)
 ## Live demo
