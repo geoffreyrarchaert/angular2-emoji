@@ -8,9 +8,6 @@ I forked this project in order to remove the input and just use the icon button.
 
 angular2-emoji is currently in early version and is stilled being developed. If you want to try it out check out the `Usage` guide below.
 
-### Not maintained
-I don't have time to maintain and develop this module. Can take look at PR that will be commited but nothing more. Use at own risk. It was meant to be something too try Angular2 with, it is not very performance friendly and should probably not be used in production enviroments
-
 #### TODO
 - Expose EmojiService api
 - Test(s)
