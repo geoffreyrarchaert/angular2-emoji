@@ -14,11 +14,7 @@ $border-radius: 12px;
   position: relative;
 
   input {
-    border: 1px solid $border-color;
-    box-sizing: border-box;
-    font-size: 10pt;
-    padding: 8px 10px;
-    width: 100%;
+    display:none;
   }
 
   .emoji-opener {
@@ -28,8 +24,8 @@ $border-radius: 12px;
     height: 24px;
     line-height: 36px;
     position: absolute;
-    right: 12px;
-    top: 6px;
+    left: 12px;
+    top: 0;
     width: 24px;
   }
 
@@ -41,7 +37,6 @@ $border-radius: 12px;
     height: $popup-height;
     line-height: 1.5;
     position: absolute;
-    right: 0;
     top: 36px;
     width: 192px;
     z-index: $popup-z-index;
@@ -79,3 +74,4 @@ $border-radius: 12px;
     }
   }
 }
+
